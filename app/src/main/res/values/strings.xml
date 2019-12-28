@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shop</string>
+
+    <string name="warehouse">Warehouse</string>
+    <string name="office">Office</string>
+
+    <string name="searching">My cart:</string>
+    <string name="find">I find </string>
+    <string name="queue">I`m staying in the queue&#8230;</string>
+    <string name="paying">I`m paying&#8230;\nTotal cost: </string>
+    <string name="end">Empty.</string>
+
+    <string name="milk">Milk</string>
+    <string name="bread">Bread</string>
+    <string name="cheese">Cheese</string>
+    <string name="egg">Egg</string>
+    <string name="tomato">Tomato</string>
+    <string name="apple">Apple</string>
+    <string name="water">Water</string>
+    <string name="juice">Juice</string>
+</resources>
